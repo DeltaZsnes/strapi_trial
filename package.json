@@ -1,0 +1,22 @@
+{
+  "name": "strapi_trial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DeltaZsnes/strapi_trial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DeltaZsnes/strapi_trial/issues"
+  },
+  "homepage": "https://github.com/DeltaZsnes/strapi_trial#readme",
+  "dependencies": {
+    "strapi": "^3.0.0-beta.18.7"
+  }
+}
